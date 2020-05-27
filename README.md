@@ -13,9 +13,9 @@ specifically Android Studio 4.1 Canary 9.
 
 <table>
  <tr>
-    <td><img src="screenshots/home1.png"</td>
+    <td><img src="screenshots/home.png"</td>
     <td><img src="screenshots/home2.png"</td>
-    <td><img src="screenshots/details1.png"</td>
+    <td><img src="screenshots/details.png"</td>
     <td><img src="screenshots/details2.png"</td>
 	<td><img src="screenshots/details3.png" </td>
   </tr>
